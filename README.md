@@ -17,3 +17,5 @@ Place 'xlive.dll' and 'xlive.ini' in the game directory of Age of Empires Online
 ### H3 Note
 
 To compile use Windows 10 SDK
+
+*Age of Empires Online © Microsoft Corporation. Firesinging was created under Microsoft's "Game Content Usage Rules" using assets from Age of Empires Online, and it is not endorsed by or affiliated with Microsoft.* 
