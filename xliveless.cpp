@@ -1151,7 +1151,7 @@ int WINAPI XSocketConnect(SOCKET s, const sockaddr_in* name, int namelen)
 			
 	}		
 	
-	return -1;
+	return 0;
 
 }
 
